@@ -12,18 +12,13 @@ Dataset
 We use a dataset in CSV format. The Iris dataset is provided by default via sklearn.datasets, but any other dataset from Kaggle or UCI ML Repository may also be used.
 
 
-ask Breakdown
+Task Breakdown
  Task 1: Load and Explore the Dataset
-Load the dataset using pandas
-
-Display the first few rows using .head()
-
-Inspect the data types and check for missing values
-
-Clean the dataset:
-
-Fill or drop missing values as needed
-
+   Load the dataset using pandas
+   Display the first few rows using .head()
+   Inspect the data types and check for missing values
+   Clean the dataset:
+   Fill or drop missing values as needed
 Error handling for file operations using try-except
 
  Task 2: Basic Data Analysis
